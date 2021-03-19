@@ -1,8 +1,1 @@
----
-title: "HelloWorld"
-author: "db"
-date: "3/19/2021"
-output: pdf_document
----
-
 ## This is Markdown
